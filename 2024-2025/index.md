@@ -37,8 +37,8 @@ For this year's challenges, please view the detailed list here:
 
 ## DemoDay Presentations 
 List here:
-* [Go to Presentations](./presentations/)
-* [📺 Watch the YouTube Playlist](https://youtube.com/playlist?list=PLWqoeian8g3ZpjVr3zS8WULRaPc_7zIks&si=P254JPQwbW6Ykuqr)
+* [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2024-2025/presentations)
+* [Watch the YouTube Playlist](https://youtube.com/playlist?list=PLWqoeian8g3ZpjVr3zS8WULRaPc_7zIks&si=P254JPQwbW6Ykuqr)
 
 
 ## Grading

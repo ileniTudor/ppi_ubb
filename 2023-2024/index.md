@@ -37,7 +37,7 @@ For this year's challenges, please view the detailed list here:
 
 ## DemoDay Presentations 
 List here:
-* [Go to Presentations](./presentations/)
+* [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2023-2024/presentations)
 
 
 ## Grading
