@@ -42,6 +42,7 @@ List here:
 
 ## Teams & Classroom
 * **GitHub Classroom:** [View All Teams](https://classroom.github.com/assignment-invitations/17801dbb620563198c50b5613d5faa25/team)
+* **Teams and MiroBoards:** [View All Teams](./teams2025-2026.xlsx)
 
 ## Grading
 * [View Grades DemoDay](./grades/demoday2025-2026.xlsx)
