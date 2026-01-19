@@ -37,7 +37,7 @@ For this year's challenges, please view the detailed list here:
 
 ## DemoDay Presentations 
 List here:
-* [Go to Presentations](./presentations/)
+* [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2024-2025/presentations/)
 
 
 ## Teams & Classroom
@@ -47,3 +47,20 @@ List here:
 ## Grading
 * [View Grades DemoDay](./grades/demoday2025-2026.xlsx)
 * [View Final Grades ](./grades/catalog2025-2026.xlsx)
+
+## 📸 Demo Day Gallery
+
+Here are some highlights from the presentations.
+
+<div align="center">
+  <img src="./photoDemo/Media (1).jpg" width="30%" />
+<img src="./photoDemo/Media (2).jpg" width="30%" />
+<img src="./photoDemo/Media (3).jpg" width="30%" />
+
+  <img src="./photoDemo/Media (4).jpg" width="30%" />
+  <img src="./photoDemo/Media (5).jpg" width="30%" />
+<img src="./photoDemo/Media (6).jpg" width="30%" />
+</div>
+---
+
+### 📂 [View the full collection in the Repository folder](https://github.com/ileniTudor/ppi_ubb/tree/main/2024-2025/photoDemo/)
