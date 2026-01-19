@@ -37,7 +37,7 @@ For this year's challenges, please view the detailed list here:
 
 ## DemoDay Presentations 
 List here:
-* [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2024-2025/presentations/)
+* [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2025-2026/presentations/)
 
 
 ## Teams & Classroom
@@ -63,4 +63,4 @@ Here are some highlights from the presentations.
 </div>
 ---
 
-### 📂 [View the full collection in the Repository folder](https://github.com/ileniTudor/ppi_ubb/tree/main/2024-2025/photoDemo/)
+### 📂 [View the full collection in the Repository folder](https://github.com/ileniTudor/ppi_ubb/tree/main/2025-2026/photoDemo/)
