@@ -38,6 +38,7 @@ For this year's challenges, please view the detailed list here:
 ## DemoDay Presentations 
 List here:
 * [Go to Presentations](https://github.com/ileniTudor/ppi_ubb/tree/main/2025-2026/presentations/)
+* [Watch the YouTube Playlist](https://www.youtube.com/playlist?list=PLWqoeian8g3aUKUvymg2SXMIsDEaDQDLt)
 
 
 ## Teams & Classroom
