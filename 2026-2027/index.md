@@ -13,8 +13,6 @@ Each layer follows the same loop:
 
 > **Specify** what it should do → **Build** it with AI → **Verify** that it does it
 
-Before you leave each lab, something new must be committed to your team repository.
-
 ### Milestone Guidelines
 * **Submission:** Each milestone is delivered in your **team's GitHub repository** (no MS Teams upload).
     * The repository is checked at the deadline.
