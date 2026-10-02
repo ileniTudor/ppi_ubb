@@ -27,5 +27,9 @@ Before you leave each lab, something new must be committed to your team reposito
 * **Demo Day (Week 14):**
     * ❗ Participation is **mandatory** for **all** team members.
 
+## Labs Tech
+
+1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
+
 ## Teams & Classroom
 *Links will be published once the teams are formed.*
