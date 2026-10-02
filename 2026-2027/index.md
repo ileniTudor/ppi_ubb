@@ -16,8 +16,8 @@ Each layer follows the same loop:
 Before you leave each lab, something new must be committed to your team repository.
 
 ### Milestone Guidelines
-* **Submission:** Each milestone must be uploaded on **MS Teams Assignments**.
-    * *Note:* Only **one** team member needs to upload the files on behalf of the team.
+* **Submission:** Each milestone is delivered in your **team's GitHub repository** (no MS Teams upload).
+    * The repository is checked at the deadline.
 * **Late Policy:**
     * ⚠️ **Penalty:** There is a **-2 points** penalty from the milestone grade for every **2 weeks of delay**.
 
