@@ -29,5 +29,9 @@ Each layer follows the same loop:
 
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
 
+## Proposed Challenges
+For this year's challenges, please view the detailed list here:
+* [Go to Challenges](./challenges.md)
+
 ## Teams & Classroom
 *Links will be published once the teams are formed.*
