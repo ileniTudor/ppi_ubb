@@ -528,3 +528,14 @@ autoencodere pentru învățarea automată a reprezentărilor semnalelor electro
 - Bocan, A., Siavash Moakhar, R., del Real Mata, C., Petkun, M., De Iure‐Grimmel, T., Yedire, S. G., ... & Mahshid, S. (2025). Machine‐learning‐aided advanced electrochemical biosensors. Advanced Materials, 37(33), 2417520 [link](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202417520).
 
 </details>
+
+---
+
+## Project 13
+<details markdown="1">
+<summary><strong>LLM Security Guardian</strong> (Owner: Laura Cernau)</summary>
+<br>
+
+*Descrierea detaliată va fi publicată în curând.*
+
+</details>
