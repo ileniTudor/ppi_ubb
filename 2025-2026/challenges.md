@@ -5,7 +5,7 @@ Mai jos găsiți lista proiectelor propuse pentru acest an. Dați click pe săge
 ---
 
 ## Project 1
-<details>
+<details markdown="1">
 <summary><strong>Conversational Avatar Production</strong> (Owner: Alexandru Manole)</summary>
 <br>
 
@@ -35,7 +35,7 @@ De exemplu:
 ---
 
 ## Project 2
-<details>
+<details markdown="1">
 <summary><strong>Identificarea defectelor software</strong> (Owner: Laura Cernau)</summary>
 <br>
 
@@ -69,7 +69,7 @@ Se va considera o bază de date cu proiecte software. Input-ul pentru LLM poate 
 ---
 
 ## Project 3
-<details>
+<details markdown="1">
 <summary><strong>Helpdesk bazat pe LLM (RAG)</strong> (MateInfo-UBB)</summary>
 <br>
 
@@ -102,7 +102,7 @@ Sistemul va căuta în documente și va genera răspunsuri.
 ---
 
 ## Project 4
-<details>
+<details markdown="1">
 <summary><strong>Identificarea cancerului de plămân</strong> (Owner: Dr. Andrei Roman / Nicolas Musat)</summary>
 <br>
 
@@ -134,7 +134,7 @@ Input-ul modelului:
 ---
 
 ## Project 5
-<details>
+<details markdown="1">
 <summary><strong>Identificarea cancerului de sân</strong> (Owner: Dr. Andrei Roman / Dr. Cristiana Moroz-Dubenco)</summary>
 <br>
 
@@ -160,7 +160,7 @@ Utilizarea modelelor Transformer/GNN pentru a identifica tumori maligne și beni
 ---
 
 ## Project 6
-<details>
+<details markdown="1">
 <summary><strong>Voice to text - Fișa Pacientului</strong> (Owner: Dr. Alina Baciu)</summary>
 <br>
 
@@ -186,7 +186,7 @@ Sistem inteligent care transformă informația audio înregistrată de medic (ex
 ---
 
 ## Project 7
-<details>
+<details markdown="1">
 <summary><strong>Estimarea dificultății cazurilor stomatologice</strong> (Owner: Dr. Mihaela Hedesiu)</summary>
 <br>
 
@@ -205,7 +205,7 @@ Tratamentul endodontic are o rată de succes mare, dar erorile (perforații, blo
 ---
 
 ## Project 8
-<details>
+<details markdown="1">
 <summary><strong>Causality identification</strong> (Owner: Dr. Dan Blendea)</summary>
 <br>
 
@@ -234,7 +234,7 @@ Identificarea cauzelor insuficienței mitrale (MR) plecând de la ecografii card
 ---
 
 ## Project 9
-<details>
+<details markdown="1">
 <summary><strong>Medical dataset generation</strong> (Owner: Mihai Nadas)</summary>
 <br>
 
@@ -261,7 +261,7 @@ Crearea unei baze de date medicale (corpus) pentru limba română pentru a susț
 ---
 
 ## Project 10
-<details>
+<details markdown="1">
 <summary><strong>Legal dataset generation</strong> (Owner: Mihai Nadas)</summary>
 <br>
 
@@ -281,7 +281,7 @@ Construirea celui mai mare corpus de documente juridice românești (legi, hotă
 ---
 
 ## Project 11
-<details>
+<details markdown="1">
 <summary><strong>Early Discovery of Anxiety/Depression</strong> (Owner: Cristiana Bogateanu)</summary>
 <br>
 
@@ -301,7 +301,7 @@ Identificarea proactivă a semnelor de anxietate și depresie la adolescenți fo
 ---
 
 ## Project 12
-<details>
+<details markdown="1">
 <summary><strong>Digital Triage System</strong> (Owner: Cristiana Bogateanu)</summary>
 <br>
 
@@ -321,7 +321,7 @@ Un sistem inteligent care ghidează pacienții către cel mai potrivit furnizor 
 ---
 
 ## Project 13
-<details>
+<details markdown="1">
 <summary><strong>Real-Time Scene-Aware Assistant (TinyVLM)</strong> (Owner: Mohamed Hassan, Bosch)</summary>
 <br>
 
@@ -344,7 +344,7 @@ Dezvoltarea unui asistent vizual care rulează pe dispozitive cu resurse limitat
 ---
 
 ## Project 14
-<details>
+<details markdown="1">
 <summary><strong>Monitorizarea stării de sănătate (SmartWatch)</strong> (Owner: Zoltan Balint)</summary>
 <br>
 
@@ -364,7 +364,7 @@ Explorarea datelor colectate de ceasuri inteligente (activitate, somn, ritm card
 ---
 
 ## Project 15
-<details>
+<details markdown="1">
 <summary><strong>Segmentarea arterei etmoidale anterioare pe CBCT</strong> (Owner: Dr. Filip Iacob)</summary>
 <br>
 
