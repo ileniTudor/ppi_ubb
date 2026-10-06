@@ -7,7 +7,7 @@ Mai jos găsiți lista proiectelor propuse pentru acest an. Dați click pe săge
 ---
 
 ## Project 1
-<details>
+<details markdown="1">
 <summary><strong>Mai multe perspective, un singur diagnostic: AI pentru detectarea precoce a cancerului pulmonar</strong> (Owner: dl. dr. Andrei Roman)</summary>
 <br>
 
@@ -49,7 +49,7 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 ---
 
 ## Project 2
-<details>
+<details markdown="1">
 <summary><strong>AI pentru sănătatea femeilor: Identificarea cancerului de san</strong> (Owner: dl. dr. Andrei Roman)</summary>
 <br>
 
@@ -94,7 +94,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 ---
 
 ## Project 3
-<details>
+<details markdown="1">
 <summary><strong>Vocea care scrie: Automatizarea intocmirii fisei pacientului</strong> (Owner: dna. dr. Alina Baciu)</summary>
 <br>
 
@@ -128,7 +128,7 @@ Se va pleca de la inregistrari audio precum [aceasta](https://github.com/lauradi
 ---
 
 ## Project 4
-<details>
+<details markdown="1">
 <summary><strong>De la interfața cutanată la simulator digital cardiac: optimizarea asistată de inteligență artificială a senzorilor ECG purtabili imprimați 3D</strong> (Owner: dl. dr. Dan Blendea, prof. dr. Zoltan Balint)</summary>
 <br>
 
@@ -162,7 +162,7 @@ https://www.researchgate.net/publication/378021834_Analysis_of_Fitness_Based_on_
 ---
 
 ## Project 5
-<details>
+<details markdown="1">
 <summary><strong>Simulator digital al valvei mitrale asistat de inteligență artificială pentru simularea intervențiilor virtuale în regurgitarea mitrală funcțională</strong> (Owner: dl. dr. Dan Blendea, prof. dr. Zoltan Balint)</summary>
 <br>
 
@@ -198,7 +198,7 @@ Componenta AI poate fi utilizată pentru: segmentarea imaginilor ecografice sau 
 ---
 
 ## Project 6
-<details>
+<details markdown="1">
 <summary><strong>AI pentru zâmbete: Identificarea tumorilor osoase maxofaciale</strong> (Owner: dna. dr. Mihaela Hedesiu)</summary>
 <br>
 
@@ -239,7 +239,7 @@ Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). Trans
 ---
 
 ## Project 7
-<details>
+<details markdown="1">
 <summary><strong>Simulator digital pentru practica dentara</strong> (Owner: dna. dr. Mihaela Hedesiu)</summary>
 <br>
 
@@ -285,7 +285,7 @@ Sistemul poate funcționa ca un instrument de tip "what-if analysis".
 ---
 
 ## Project 8
-<details>
+<details markdown="1">
 <summary><strong>Diagram-as-Code AI Assistant</strong> (Owner: Laura Cernau)</summary>
 <br>
 
@@ -340,7 +340,7 @@ Keep the views consistent: generate a single underlying model from which all C4 
 ---
 
 ## Project 9
-<details>
+<details markdown="1">
 <summary><strong>Visual C4 Diagram Editor for VS Code with Company Modeling Rules</strong> (Owner: Laura Cernau, MARSH)</summary>
 <br>
 
@@ -388,7 +388,7 @@ Diagram assistant:
 ---
 
 ## Project 10
-<details>
+<details markdown="1">
 <summary><strong>Clinical Trial Radar++: AI-Powered Recruitment Feasibility Prediction</strong> (Owner: Cristina Bogatean, Nagarro)</summary>
 <br>
 
@@ -444,7 +444,7 @@ Optional feasibility proxies
 ---
 
 ## Project 11
-<details>
+<details markdown="1">
 <summary><strong>Pharmacovigilance Signal Triage Copilot</strong> (Owner: Cristina Bogatean, Nagarro)</summary>
 <br>
 
@@ -496,7 +496,7 @@ Optional safety-related sources
 ---
 
 ## Project 12
-<details>
+<details markdown="1">
 <summary><strong>AI pentru Terapii Personalizate</strong> (Owner: Dr. Alexandra Pusta)</summary>
 <br>
 
