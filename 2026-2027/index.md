@@ -34,4 +34,11 @@ For this year's challenges, please view the detailed list here:
 * [Go to Challenges](./challenges.md)
 
 ## Teams & Classroom
-*Links will be published once the teams are formed.*
+Each team works in **one shared GitHub repository**, created through Classroom 50. All milestones are delivered there.
+
+**Create your team repository:**
+1. Open the assignment link: [**PPI team repository on Classroom 50**](https://classroom50.org/LauraDiosan-CS/mirpr-2026-2027/assignments/ppi/accept) and click **Sign in with GitHub**.
+2. **One** team member creates the group: under **Group name**, type **`Echipa X`**, where **X** is your team number from the team sign-up spreadsheet (e.g. `Echipa 7`), then click **Create group**.
+3. The other members open the same link, find **Echipa X** under **Join a group** and click **Ask to join**. The member who created the group approves the requests (or adds teammates directly via **Manage my group**).
+
+> If the page says **Not a member yet**, accept the GitHub invitation to the organization (check your email), then click **Check again**.
