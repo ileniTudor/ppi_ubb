@@ -240,45 +240,38 @@ Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). Trans
 
 ## Project 7
 <details markdown="1">
-<summary><strong>Simulator digital pentru practica dentara</strong> (Owner: dna. dr. Mihaela Hedesiu)</summary>
+<summary><strong>Identificarea leziunilor in dintii temporari si cei permanenti la copii</strong> (Owner: dna. dr. Mihaela Hedesiu)</summary>
 <br>
 
-<img src="https://raw.githubusercontent.com/lauradiosan/MIRPR-MateInfoUBB/main/2026-2027/Projects/project-images/stoma2.jpg" width="150" alt="Simulator digital pentru practica dentara">
+<img src="https://raw.githubusercontent.com/lauradiosan/MIRPR-MateInfoUBB/main/2026-2027/Projects/project-images/stomaCopii.png" width="150" alt="Identificarea leziunilor in dintii temporari si cei permanenti la copii">
 
-### AI-Driven Digital Simulator for Operational Optimization of Dental Practices
+### Detecția leziunilor odontale ale dinților temporari
 
 #### Scop
-Dezvoltarea unui sistem stomatologic virtual care să permită simularea și optimizarea proceselor operaționale utilizând tehnici de inteligență artificială. Sistemul va sprijini managerii și medicii în luarea deciziilor privind programările, alocarea resurselor, utilizarea echipamentelor, gestionarea fluxului de pacienți și estimarea performanței cabinetului/clinice stomatologice. 
+Dezvoltarea unei platforme AI pentru detectarea, caracterizarea și evaluarea prognostică a leziunilor odontale la copii, utilizând radiografii panoramice (OPT) și informații clinice asociate, în vederea sprijinirii deciziilor terapeutice în stomatologia pediatrică.
 
 #### Ideea de baza
-Clinicile stomatologice funcționează într-un mediu complex, în care performanța depinde simultan de factori clinici, operaționali și financiari. Probleme precum neprezentarea pacienților la programări (no-shows), timpii de așteptare, distribuția neuniformă a programărilor, utilizarea ineficientă a scaunelor dentare sau a personalului medical pot genera costuri semnificative și pierderi de venit. Studiile recente arată că modelele de Machine Learning pot prezice cu succes neprezentările și pot contribui la optimizarea programărilor. 
-Proiectul urmărește construirea unui sistem inteligent care reproduce virtual activitatea unei clinici stomatologice și permite simularea diferitelor scenarii operaționale: 
-estimarea fluxului zilnic de pacienți; 
-predicția anulărilor și a neprezentărilor; 
-optimizarea programărilor; 
-optimizarea încărcării medicilor și a personalului auxiliar; 
-analiza gradului de utilizare a echipamentelor; 
-simularea impactului unor decizii manageriale asupra profitabilității;
-identificarea factorilor care influențează costurile și veniturile.
 
-Se pot investiga metode de: 
-Machine Learning pentru predicție; 
-Process Mining pentru modelarea proceselor; 
-Discrete Event Simulation; 
-Reinforcement Learning pentru optimizarea deciziilor; 
-Explainable AI pentru justificarea recomandărilor oferite managerilor. 
-Sistemul poate funcționa ca un instrument de tip "what-if analysis".
+Caria dentară și complicațiile acesteia reprezintă una dintre cele mai frecvente afecțiuni la copii, iar evaluarea severității leziunilor și alegerea tratamentului optim depind de interpretarea corectă a investigațiilor radiologice. Proiectul urmărește dezvoltarea unei platforme AI capabile să analizeze automat radiografii panoramice pentru identificarea și caracterizarea leziunilor odontale la dinții temporari și permanenți, inclusiv localizarea acestora, profunzimea afectării (smalț, dentină superficială, dentină profundă), prezența obturațiilor asociate, gradul de distrucție coronară și implicarea furcației. Pe baza acestor informații și a datelor clinice disponibile, vor fi dezvoltate modele predictive pentru estimarea probabilității de afectare pulpară și a prognosticului dintelui, inclusiv probabilitatea succesului tratamentului conservator versus necesitatea extracției. Platforma poate constitui baza pentru viitoare gemeni digitali ai sănătății orale pediatrice, capabili să simuleze evoluția leziunilor și să sprijine planificarea personalizată a tratamentului.
+
+In cele 1000-1500 radiografii panoramice (OPT) se pot executa sarcini de:
+- Detecție:
+    - Leziuni odontale: localizare (suprafața dentară), profunzime (smalț, dentină superficial, dentină profund)
+    - Obturații +- carie
+    - Grad de distrucție coronară > 50%
+    - Implicarea furcației
+- Predicție:
+    - Probabilitate de afectare pulpară (%)
+    - Rata de supraviețuire: tratament coservativ/extracție
 
 #### Data
-- [dataset1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9680883/#_ad93_) - Alabdulkarim, Y., Almukaynizi, M., Alameer, A., Makanati, B., Althumairy, R., & Almaslukh, A. (2022). Predicting no-shows for dental appointments. PeerJ Computer Science, 8, e1147.
-- [dataset2](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
-- [dataset3](https://data.mendeley.com/datasets/wm6w2fvkfj/1)
-- [MIMIC](https://physionet.org/content/mimiciv/)
+- [link1](https://zenodo.org/records/15487430)
 
 #### Bibliografie
-
-- Khashwayn, S., Bakhashwayn, M., & Alsubaie, A. (2026). Managing Dental Appointment No-Shows: A Systematic Review of Machine Learning Applications. International Dental Journal, 76(5), 109749 [link](https://pubmed.ncbi.nlm.nih.gov/42468354/)
-- Cozmescu, A. F., Cernega, A., Didilescu, A. C., Imre, M. M., Dimitriu, B., & Pițuru, S. M. (2026). Administrative Perspectives on Digital Workflow Transformation and Artificial Intelligence Implementation in Dental Clinics. Dentistry Journal, 14(4), 206 [link](https://pubmed.ncbi.nlm.nih.gov/42041659/)
+- Bhoopalan, R., Mirdula, S., Kannusamy, P., Gayathri, D., Manikandan, D., & Ramaswamy, K. (2026). A self attention based deep learning framework for accurate and efficient dental disease detection in OPG radiographs. Scientific Reports, 16(1), 5914.
+- Mutlu, O., Aslan, E., & Mert, A. (2026). Deep Learning–Based Automated Diagnostic Charting on Panoramic Radiography: Comparison of YOLOv11 and YOLOv12. Odontology, 1-11.
+- Barua, P., Yeahea, M. A. F., Rashid, R. N., Islam, M. R., Zaman, M. U., Alqhtani, N. R., ... & Alam, M. K. (2026). YOLO-TeethSeg: a resource-efficient approach to multi-class teeth instance segmentation using lightweight YOLO-based models. Biomedical Signal Processing and Control, 120, 109952.
+- Mahizha, S. I., Annrose, J., & Mano Christaine Angelo, J. (2026). SwinDent-Seg: Hybrid Swin transformer-CNN with cross-scale feature fusion for automated detection and segmentation of dental pathologies in panoramic radiographs. Journal of X-Ray Science and Technology, 08953996261478470.
 
 </details>
 
