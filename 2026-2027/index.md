@@ -28,6 +28,7 @@ Each layer follows the same loop:
 ## Labs Tech
 
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
+2.  **Lab 2:** [Innovation in UX/UI](./labs/sem2-tech-ux.pdf)
 
 ## Proposed Challenges
 For this year's challenges, please view the detailed list here:
