@@ -30,6 +30,10 @@ Each layer follows the same loop:
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
 2.  **Lab 2:** [Innovation in UX/UI](./labs/sem2-tech-ux.pdf)
 
+## AI Server
+Your team can call an open language model (gpt-oss-20b) running on a faculty server, through the faculty VPN:
+* [**How to connect and call the model**](./ai-server.md)
+
 ## Proposed Challenges
 For this year's challenges, please view the detailed list here:
 * [Go to Challenges](./challenges.md)
