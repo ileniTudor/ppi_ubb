@@ -30,9 +30,10 @@ Each layer follows the same loop:
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
 2.  **Lab 2:** [Innovation in UX/UI](./labs/sem2-tech-ux.pdf)
 
-## AI Server
-Your team can call an open language model (gpt-oss-20b) running on a faculty server, through the faculty VPN:
-* [**How to connect and call the model**](./ai-server.md)
+## AI Models for Your Product
+The faculty hosts open AI models you can call from your app through OpenAI-compatible endpoints:
+* [**LLMHub**](./llmhub.md): the faculty AI platform, with sign-in through your institutional Microsoft account (2 models for now, one of them accepts images)
+* [**AI Server for PPI teams**](./ai-server.md): gpt-oss-20b on a faculty server, through the faculty VPN, with a team API key
 
 ## Proposed Challenges
 For this year's challenges, please view the detailed list here:
