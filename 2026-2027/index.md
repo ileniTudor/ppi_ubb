@@ -32,8 +32,20 @@ Each layer follows the same loop:
 
 ## AI Models for Your Product
 The faculty hosts open AI models you can call from your app through OpenAI-compatible endpoints:
-* [**LLMHub**](./llmhub.md): the faculty AI platform, with sign-in through your institutional Microsoft account (2 models for now, one of them accepts images)
-* [**AI Server for PPI teams**](./ai-server.md): gpt-oss-20b on a faculty server, through the faculty VPN, with a team API key
+* [**LLMHub (GPU, no VPN needed)**](./llmhub.md): the faculty AI platform, with sign-in through your institutional Microsoft account (2 models for now, one of them accepts images)
+* [**AI Server for PPI teams (CPU, through the faculty VPN)**](./ai-server.md): gpt-oss-20b on a faculty server, with a team API key
+
+## Kiro for Students (1,000 free credits per month)
+UBB is part of **Kiro for Students**: an AI coding assistant (IDE and agent) with **1,000 credits per month** for every student.
+
+**Setup:**
+1. Go to [aws.amazon.com/builder](https://aws.amazon.com/builder/) and create an **AWS Builder ID** with your **`<your_email>@stud.ubbcluj.ro`** address.
+2. Open [kiro.dev/students](https://kiro.dev/students/).
+3. Sign up to Kiro with the **AWS Builder ID** option. If you registered in step 1, it should log you in automatically.
+4. Go to **Settings**: a pop-up should say that you are eligible for 1,000 credits.
+5. Click **I'm a student** and follow the steps to register.
+
+> Tip: start in Kiro's **spec mode** and give it your `SPECS.md`. Check the requirements, design and tasks it writes before you let it code.
 
 ## Proposed Challenges
 For this year's challenges, please view the detailed list here:
