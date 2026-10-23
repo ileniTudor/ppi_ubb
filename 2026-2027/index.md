@@ -25,6 +25,12 @@ Each layer follows the same loop:
 * **Demo Day (Week 14):**
     * ❗ Participation is **mandatory** for **all** team members.
 
+## Attendance & Milestones
+Your lab attendance and milestone status are in the shared (read-only) catalog:
+* [**PPI attendance 2026-2027 (export)**](https://ubbcluj.sharepoint.com/:x:/s/ProiectareaProduselorInovative2026-2027/cQrlAhAqF2nGRbMtHZiNdm_EEgUBb2nDeuku7PJ5f3CV6E5pqA)
+
+Find your row by your name. `1` = present, `0` = absent, `M` = excused. If something is wrong, tell the professor on MS Teams.
+
 ## Labs Tech
 
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
