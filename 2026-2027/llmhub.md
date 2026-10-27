@@ -118,7 +118,71 @@ How to set the **thinking level** and use **tool calling**: see the examples on 
 
 Because the code only reads `LLM_BASE_URL`, `LLM_API_KEY` and `LLM_MODEL`, you can switch models or providers by changing the `.env` file, without touching the code.
 
-## 4. Rules
+## 4. Use it for coding (Qwen3.8 Flash Next)
+
+The same endpoint can power your **coding assistant**. **Qwen3.8 Flash Next** is the model to pick for code: it supports tool calling (needed by coding agents) and long answers (about 16,400 tokens).
+
+Any editor extension or terminal agent that accepts an **OpenAI-compatible endpoint** works. You need the same three values as in your app:
+
+* **base URL** and **API key**: from the **Connect a client** page
+* **model id**: `qwen3.8-flash-next`
+
+> These settings were written from each tool's documentation. If one does not work with LLMHub, tell the professor on MS Teams. Tools change often: check their docs if a field has been renamed.
+
+### Continue (VS Code / JetBrains)
+
+In `config.yaml`:
+
+```yaml
+name: LLMHub
+version: 1.0.0
+schema: v1
+models:
+  - name: Qwen3.8 Flash Next
+    provider: openai
+    model: qwen3.8-flash-next
+    apiBase: <base URL from "Connect a client">
+    apiKey: <your API key>
+    roles: [chat, edit, apply]
+```
+
+### Cline (VS Code)
+
+In the Cline settings choose **API Provider: OpenAI Compatible**, then fill in **Base URL**, **API Key** and **Model ID** (`qwen3.8-flash-next`).
+
+### OpenCode (terminal)
+
+In `opencode.json`:
+
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "llmhub": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "LLMHub",
+      "options": { "baseURL": "<base URL>", "apiKey": "{env:LLM_API_KEY}" },
+      "models": { "qwen3.8-flash-next": { "name": "Qwen3.8 Flash Next" } }
+    }
+  }
+}
+```
+
+### Aider (terminal)
+
+```bash
+export OPENAI_API_BASE=<base URL>
+export OPENAI_API_KEY=<your API key>
+aider --model openai/qwen3.8-flash-next
+```
+
+### Good habits when AI writes the code
+
+* Give it your `SPECS.md` first and ask it to work task by task.
+* Run the code, read the diff and test it before you commit. Anyone in the team may be asked to explain any part of the code.
+* The API key stays in the tool's settings or an environment variable. Never commit it, and do not paste secrets or real patient data into the chat.
+
+## 5. Rules
 
 * Your API key is a password: keep it in an environment variable or `.env`, **never** in git and **never** in frontend code (anyone can read it in the browser). Do not share it.
 * Use it for your PPI project.
