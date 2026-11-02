@@ -35,6 +35,7 @@ Find your row by your name. `1` = present, `0` = absent, `M` = excused. If somet
 
 1.  **Lab 1:** [Innovation & Agile: How Teams Build Products](./labs/sem1-tech-intro-agile.pdf)
 2.  **Lab 2:** [Innovation in UX/UI](./labs/sem2-tech-ux.pdf)
+3.  **Lab 3:** [From prompt to model: AI in your product](./labs/sem3-ai1.pdf)
 
 ## AI Models for Your Product
 The faculty hosts open AI models you can call from your app through OpenAI-compatible endpoints:
